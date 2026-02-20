@@ -102,7 +102,7 @@ The application provides a clean web-based interface for:
 Below is a screenshot of the frontend interface:
 
 <p align="center">
-  <img src="assets/frontend.png" alt="RAG Chatbot Frontend" width="800"/>
+  <img src="assets/frontend.png" alt="RAG Chatbot Frontend"/>
 </p>
 
 
